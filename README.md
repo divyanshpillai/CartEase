@@ -93,28 +93,36 @@ python manage.py createsuperuser
 Static Files:
 
 Collect static files for production deployment:
-bash
-Copy code
-python manage.py collectstatic
-Usage
-User Authentication
-Sign Up: New users can create an account to start shopping.
-Log In: Existing users can log in to access their account and past orders.
-Profile Management: Users can update their personal information and view order history.
+bash<br>
+Copy code<br>
+python manage.py collectstatic<br>
+Usage<br>
+<br>
+User Authentication<br>
+Sign Up: New users can create an account to start shopping.<br>
+Log In: Existing users can log in to access their account and past orders.<br>
+Profile Management: Users can update their personal information and view order history.<br>
+<br>
 Browsing and Searching Products
-Product Catalog: Browse products by categories or use the search bar to find specific items.
-Filters: Apply filters to narrow down product listings by criteria such as price, brand, etc.
-Shopping Cart and Checkout
-Add to Cart: Add desired products to the cart with a single click.
-Cart Management: View and modify cart contents at any time.
-Checkout: Follow the step-by-step process to provide shipping details and payment information.
-Order Review: After placing an order, users can review their order details and status.
+<br>
+Product Catalog: Browse products by categories or use the search bar to find specific items.<br>
+Filters: Apply filters to narrow down product listings by criteria such as price, brand, etc.<br>
+<br>
+Shopping Cart and Checkout<br>
+Add to Cart: Add desired products to the cart with a single click.<br>
+Cart Management: View and modify cart contents at any time.<br>
+Checkout: Follow the step-by-step process to provide shipping details and payment information.<br>
+Order Review: After placing an order, users can review their order details and status.<br>
+<br>
 Future Enhancements
-Enhanced Payment Options: Integration with multiple payment gateways.
-Advanced Search and Filters: Adding AI-powered search suggestions and more detailed filtering options.
-Personalized Recommendations: Implementing user behavior analysis for personalized product recommendations.
-Mobile Application: Developing mobile apps for a better on-the-go shopping experience.
+<br>
+Enhanced Payment Options: Integration with multiple payment gateways.<br>
+Advanced Search and Filters: Adding AI-powered search suggestions and more detailed filtering options.<br>
+Personalized Recommendations: Implementing user behavior analysis for personalized product recommendations.<br>
+Mobile Application: Developing mobile apps for a better on-the-go shopping experience.<br>
+<br>
 Contributing
+<br>
 We welcome contributions to enhance CartEase! If you have ideas or would like to report issues, please:
 <br>
 <br>
